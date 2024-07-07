@@ -81,7 +81,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: left;
-  background: var(--rp-surface);
+  background: var(--rp-base);
   background-size: 100% 600px;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -137,16 +137,16 @@ a {
   text-decoration: underline;
   text-decoration-color: var(--rp-highlight-med);
   text-decoration-thickness: 8px;
-  text-underline-offset: -3px;
+  text-underline-offset: -4px;
   text-decoration-skip-ink: none;
   transition: all 0.25s ease;
-  font-weight: 700;
+  /* font-weight: 700; */
 }
 a:hover {
   color: var(--rp-text);
-  text-decoration-thickness: 21px;
-  text-underline-offset: -15px;
-  transition: all 0.25s ease-in-out;
+  text-decoration-thickness: 23px;
+  text-underline-offset: -17px;
+  transition: all 0.25s ease;
   /* text-decoration-color: var(--rp-rose); */
 }
 p {
@@ -189,9 +189,30 @@ blockquote {
   font-size: 1.333em;
 }
 hr {
-  border: none;
-  border-top: 1px solid rgb(var(--rp-highlight-low));
+  border-top: 1px solid;
+  border-color: var(--rp-highlight-low);
+  opacity: 0.25;
+  margin: 2em 0em;
 }
+
+/* <article class="post">
+        <a>{allBlogPosts[0].data.title}</a>
+        <p><small><FormattedDate date={allBlogPosts[0].data.pubDate}/></small></p>
+        <p>
+          {allBlogPosts[0].data.description}
+        </p>
+      </article> */
+.post {
+  display: flex;
+  flex-direction: column;
+  p {
+    margin: 0px;
+  }
+  a {
+    margin-bottom: 0px;
+  }
+}
+
 @media (max-width: 720px) {
   body {
     font-size: 16px;

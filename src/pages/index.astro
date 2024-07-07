@@ -2,6 +2,8 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import Post from "../components/Post.astro";
+import FormattedDate from "../components/FormattedDate.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 
@@ -13,6 +15,10 @@ allBlogPosts.sort((post) => {
   post.data.pubDate;
 });
 console.log(allBlogPosts);
+function shorten(str, maxLen, separator = ' ') {
+  if (str.length <= maxLen) return str;
+  return str.substr(0, str.lastIndexOf(separator, maxLen));
+}
 ---
 
 <!doctype html>
@@ -24,21 +30,24 @@ console.log(allBlogPosts);
     <Header />
     <main>
       <h2 class="small">latest</h2>
-      <article>
-        <p>{allBlogPosts[0].data.title}</p>
+      <article class="post">
+        <a>{allBlogPosts[0].data.title}</a>
+        <p><small><FormattedDate date={allBlogPosts[0].data.pubDate}/></small></p>
         <p>
-          {allBlogPosts[0].data.description}
+          {shorten(allBlogPosts[0].body, 200)}...
         </p>
-        <a href=`blog/${allBlogPosts[0].slug}`>Link to article</a>
       </article>
       <hr />
+      <h2></h2>
       <p>
-        Welcome to the official <a href="https://astro.build/">Astro</a> blog starter
-        template. This template serves as a lightweight, minimally-styled starting
-        point for anyone looking to build a personal website, blog, or portfolio
-        with Astro.
+        I'm Ellie. I design, code, and write about systems, thinking, and purpose. Currently working on Search UX, promoting innovation in design, & the future of Kindle at Amazon.com.
       </p>
+      <a href="/about">More</a>
       <hr />
+      <h2>Writing</h2>
+      <ul>
+        {allBlogPosts.map((post) => <Post url=`/blog/${post.slug}` title={post.data.title} />)}
+      </ul>
       <p>
         This template comes with a few integrations already configured in your
         <code>astro.config.mjs</code> file. You can customize your setup with

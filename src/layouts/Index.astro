@@ -7,6 +7,8 @@ import FormattedDate from "../components/FormattedDate.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
 
+const aboutPage = await Astro.glob("../pages/about.md");
+console.log(aboutPage);
 // Get all entries from a collection.
 // Requires the name of the collection as an argument.
 // Example: retrieve `src/content/blog/**`
@@ -14,7 +16,7 @@ const allBlogPosts = await getCollection("blog");
 allBlogPosts.sort((post) => {
   post.data.pubDate;
 });
-console.log(allBlogPosts);
+// console.log(allBlogPosts);
 function shorten(str, maxLen, separator = ' ') {
   if (str.length <= maxLen) return str;
   return str.substr(0, str.lastIndexOf(separator, maxLen));
@@ -38,10 +40,7 @@ function shorten(str, maxLen, separator = ' ') {
         </p>
       </article>
       <hr />
-      <h2>About</h2>
-      <p>
-        I'm Ellie. I design, code, and write about systems, thinking, and purpose. Currently working on Search UX, promoting innovation in design, & the future of Kindle at Amazon.com.
-      </p>
+      {aboutPage}
       <a href="/about">More</a>
       <hr />
       <h2>Writing</h2>

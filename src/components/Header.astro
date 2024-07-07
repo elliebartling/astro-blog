@@ -1,58 +1,58 @@
 ---
-import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+import HeaderLink from "./HeaderLink.astro";
+import { SITE_TITLE } from "../consts";
 ---
 
 <header>
-	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
-			<HeaderLink href="/about">About</HeaderLink>
-		</div>
-	</nav>
+  <nav>
+    <h2><a href="/">{SITE_TITLE}</a></h2>
+    <div class="internal-links">
+      <HeaderLink href="/about">About</HeaderLink>
+    </div>
+  </nav>
 </header>
 <style>
-	header {
-		margin: 0;
-		padding: 0.5em 1em;
-		/* background: white; */
-		/* box-shadow: 0 2px 8px rgba(var(--black), 5%); */
-	}
-	h2 {
-		margin: 0;
-		font-size: 1em;
-		font-weight: 400;
-		color: var(--rp-muted);
-	}
+  header {
+    margin: 0;
+    padding: 0.5em 1em;
+    /* background: white; */
+    /* box-shadow: 0 2px 8px rgba(var(--black), 5%); */
+  }
+  h2 {
+    margin: 0;
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--rp-muted);
+  }
 
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
-	}
-	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-	}
-	nav a {
-		padding: 0.3em 0em;
-		margin-right: 0.5rem;
-		// color: var(--rp-text);
-		text-decoration: none;
-		text-decoration-color: var(--rp-highlight-med);
-		font-size: 1em;
-		font-weight: 400;
-	}
-	nav a.active {
-		text-decoration: underline;
-	}
-	.social-links,
-	.social-links a {
-		display: flex;
-	}
-	@media (max-width: 720px) {
-		.social-links {
-			display: none;
-		}
-	}
+  h2 a,
+  h2 a.active {
+    text-decoration: none;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  nav a {
+    padding: 0.3em 0em;
+    margin-right: 0.5rem;
+    color: var(--rp-subtle);
+    text-decoration: none;
+    text-decoration-color: var(--rp-highlight-med);
+    font-size: 1em;
+    font-weight: 400;
+  }
+  nav a.active {
+    text-decoration: underline;
+  }
+  .social-links,
+  .social-links a {
+    display: flex;
+  }
+  @media (max-width: 720px) {
+    .social-links {
+      display: none;
+    }
+  }
 </style>

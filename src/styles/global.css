@@ -107,15 +107,15 @@ h6 {
   font-weight: 700;
 }
 h1 {
-  font-size: 2.8em;
-  font-weight: 700;
+  font-size: 2em;
+  font-weight: 800;
   font-style: normal;
 }
 h2 {
   /* font-size: 2.441em; */
   font-size: 1em;
   color: var(--rp-subtle);
-  font-weight: 500;
+  font-weight: 400;
 }
 h3 {
   font-size: 1.953em;

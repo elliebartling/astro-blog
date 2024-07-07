@@ -139,9 +139,15 @@ a {
   text-decoration-thickness: 8px;
   text-underline-offset: -3px;
   text-decoration-skip-ink: none;
+  transition: all 0.25s ease;
+  font-weight: 700;
 }
 a:hover {
   color: var(--rp-text);
+  text-decoration-thickness: 21px;
+  text-underline-offset: -15px;
+  transition: all 0.25s ease-in-out;
+  /* text-decoration-color: var(--rp-rose); */
 }
 p {
   margin-bottom: 1em;

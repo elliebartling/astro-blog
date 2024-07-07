@@ -135,9 +135,10 @@ a {
   color: var(--rp-text);
   /* border-bottom: 2px var(--rp-foam) solid; */
   text-decoration: underline;
-  text-decoration-color: var(--rp-rose);
-  text-decoration-thickness: 3px;
-  text-underline-offset: -0.5rem;
+  text-decoration-color: var(--rp-highlight-med);
+  text-decoration-thickness: 8px;
+  text-underline-offset: -3px;
+  text-decoration-skip-ink: none;
 }
 a:hover {
   color: var(--rp-text);

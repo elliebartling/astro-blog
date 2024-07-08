@@ -14,7 +14,7 @@ console.log(aboutPage);
 // Example: retrieve `src/content/blog/**`
 const allBlogPosts = await getCollection("blog");
 allBlogPosts.sort((post) => {
-  post.data.pubDate;
+  post.data.created;
 });
 // console.log(allBlogPosts);
 function shorten(str, maxLen, separator = ' ') {
@@ -34,7 +34,7 @@ function shorten(str, maxLen, separator = ' ') {
       <h2>Latest</h2>
       <article class="post">
         <a>{allBlogPosts[0].data.title}</a>
-        <p><small><FormattedDate date={allBlogPosts[0].data.pubDate}/></small></p>
+        <p><small><FormattedDate date={allBlogPosts[0].data.created}/></small></p>
         <p>
           {shorten(allBlogPosts[0].body, 200)}...
         </p>

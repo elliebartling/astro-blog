@@ -19,10 +19,10 @@ The idea of “positivity entrepreneurism” — becoming an entrepreneur for po
 
 Mechanisms for being a force for positivity (in a business space):
 
-- Create dedicated space for positivity and creativity (which struggles without positivity, see [[Saves/Articles/Creativity in Management|Creativity in Management]]), to help break the cycle of negative contagion
+- Create dedicated space for positivity and creativity (which struggles without positivity, see [Saves/Articles/Creativity in Management|Creativity in Management](Saves/Articles/Creativity%20in%20Management%7CCreativity%20in%20Management.md)), to help break the cycle of negative contagion
 - Gut check your critique mode: Is this constructive, or am I just trying to express my opinion with a question mark at the end? What can I appreciate before launching into a critique? Can I frame this as a “yes, and” or a “I love this, let’s also”?
 - Call out the Suck by name, and be open about it. Let it have its space. Then close the chapter and move on. Emotion needs to be expressed, but it doesn’t need to be dwelled on.
 
 ## See also
 
-- [[Saves/Articles/Creativity in Management|Creativity in Management]]
+- [Saves/Articles/Creativity in Management|Creativity in Management](Saves/Articles/Creativity%20in%20Management%7CCreativity%20in%20Management.md)

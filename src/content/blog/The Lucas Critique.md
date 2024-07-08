@@ -23,4 +23,4 @@ In other words, once you begin to measure and incentivize something, you change 
 
 E.g., measuring productivity by number of projects delivered incentivizes project delivery and not necessarily productivity. Teams might break up larger projects into smaller ones inefficiently to score higher on the incentivized metric.
 
-Related concepts: [[Incentives]], [[Schrödinger’s Cat]]
+Related concepts: [Incentives](Incentives.md), [Schrödinger’s Cat](Schr%C3%B6dinger%E2%80%99s%20Cat.md)

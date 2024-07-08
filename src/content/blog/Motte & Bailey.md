@@ -20,9 +20,3 @@ E.g., Motte: "Statistically speaking, if the universe is infinite, there has to 
 The fallacy is named after a castle structure, where there was a more defensible location in the castle (the "motte"), and a less defensible location (the "bailey"). In war time defensive strategy, the defenders would begin in the bailey, where they could have the most advantage from an offensive position, and retreat to the motte when they were unable to defend the bailey. 
 
 In logical arguments, people often structure the fallacy in the same way: they begin with an outrageous, indefensible statement, and then retreat to a rock-solid statement when someone questions their original claim. By defending the more defensible claim, it appears that the original claim is equally defensible, but it is not.
-
-## From Wikipedia
-![[The motte-and-bailey fallacy (named afte... - Motte-and-bailey fallacy - Wikipedia - 20240614153311#^b9qcid]]
-[[The motte-and-bailey fallacy (named afte... - Motte-and-bailey fallacy - Wikipedia - 20240614153311|wiki]]
-## See also
-[[Fallacies]]

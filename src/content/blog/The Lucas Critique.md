@@ -2,10 +2,14 @@
 title: 202405251005 The Lucas Critique
 created: 2024-05-25
 modified: 2024-06-28
-projects: 
-people: 
-tags: [quick-note]
-aliases: [202405251005 The Lucas Critique, 20240525100580 — The Lucas Critique, 20240525100580 The Lucas Critique, The Lucas Critique]
+tags:
+  - concepts
+  - fallacies
+aliases:
+  - 202405251005 The Lucas Critique
+  - 20240525100580 — The Lucas Critique
+  - 20240525100580 The Lucas Critique
+  - The Lucas Critique
 day: 2024-05-25
 related:
   - "[[Incentives]]"

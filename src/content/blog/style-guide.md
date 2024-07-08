@@ -1,6 +1,6 @@
 ---
-title: "Style guide"
-pubDate: "2024-07-06"
+title: Style guide
+created: 2024-07-06
 ---
 
 # Style guide

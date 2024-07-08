@@ -2,10 +2,11 @@
 title: Learning with the garage door up
 created: 2024-06-30
 modified: 2024-07-01
-projects: 
-people: 
-tags: []
-aliases: [Learning with the garage door up]
+tags:
+  - career
+  - mindset
+aliases:
+  - Learning with the garage door up
 ---
 
 # Learning with the garage door up

@@ -2,15 +2,14 @@
 title: On giving something up to gain access to something better
 created: 2024-06-29
 modified: 2024-07-01
-projects: 
-people: 
-tags: [lessons-from-chess, writing]
-aliases: [On giving something up to gain access to something better]
+tags:
+  - mindset
+  - chess
+aliases:
+  - On giving something up to gain access to something better
 ---
 
 # On giving something up to gain access to something better
-#lessons-from-chess
-#writing 
 
 [[Look for sacrifices that can open up the king to an attack]]
 

@@ -2,10 +2,13 @@
 title: Opportunity Cost
 created: 2024-06-29
 modified: 2024-07-01
-projects: 
-people: 
-tags: []
-aliases: [Opportunity Cost]
+tags:
+  - concepts
+  - mental-models
+  - career
+  - productivity
+aliases:
+  - Opportunity Cost
 ---
 
 # Opportunity Cost

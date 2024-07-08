@@ -2,10 +2,10 @@
 title: Doing it stupid
 created: 2024-06-30
 modified: 2024-07-01
-projects: 
-people: 
-tags: []
-aliases: [Doing it stupid]
+tags:
+  - mindset
+aliases:
+  - Doing it stupid
 ---
 
 # Doing it stupid

@@ -2,12 +2,15 @@
 title: The incentives of inflexible systems
 created: 2023-09-09
 modified: 2024-07-01
-projects: 
-people: 
-tags: [quick-note]
-aliases: [The incentives of inflexible systems, 202406271956 The incentives of inflexible systems, Note]
+tags:
+  - concepts
+  - mental-models
+  - systems
+aliases:
+  - The incentives of inflexible systems
+  - 202406271956 The incentives of inflexible systems
+  - Note
 day: 2024-06-27
-project: 
 ---
 
 # The incentives of inflexible systems

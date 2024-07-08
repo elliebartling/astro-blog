@@ -2,12 +2,16 @@
 title: Getting started in Obsidian (or, how I take notes & actually use them)
 created: 2024-06-14
 modified: 2024-07-02
-projects: 
-people: 
-tags: [Decision]
-aliases: ["Getting started in Obsidian (or, how I take notes & actually use them)", "Getting started in Obsidian (or, how to take notes & actually use them)", Getting started in Obsidian, Getting started in Obsidian (or, how to take notes & actually use them)]
+tags:
+  - productivity
+  - note-taking
+aliases:
+  - Getting started in Obsidian (or, how I take notes & actually use them)
+  - Getting started in Obsidian (or, how to take notes & actually use them)
+  - Getting started in Obsidian
+  - Getting started in Obsidian (or
+  - how to take notes & actually use them)
 day: 2024-06-14
-project: 
 ---
 
 # Getting started in [[Obsidian]] (or, how I take notes & actually use them)

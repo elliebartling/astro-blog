@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/blog/Compressive vs. Tensile Strength.md",
+                "file": "src/content/blog/The Lucas Critique.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/blog/Compressive vs. Tensile Strength.md",
+                "file": "src/content/blog/The Lucas Critique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/blog/Compressive vs. Tensile Strength.md",
+                "file": "src/content/blog/The Lucas Critique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/blog/Compressive vs. Tensile Strength.md"
+                "file": "src/content/blog/The Lucas Critique.md"
               }
             }
           },
@@ -154,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,18 +169,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a933793bc4e3a11",
+  "active": "9853a95330a8f970",
   "lastOpenFiles": [
-    "templates/blog.md",
-    "src/content/blog/Check for pinned pawns.md",
-    "src/content/blog/Untitled.md",
-    "src/content/blog/The Lucas Critique.md",
-    "src/content/blog/The incentives of inflexible systems.md",
     "src/content/blog/The force of a system has to act on the surface area of its object.md",
+    "src/content/blog/The incentives of inflexible systems.md",
+    "src/content/blog/style-guide.md",
     "src/content/blog/Playing chess against yourself.md",
     "src/content/blog/Opportunity Cost.md",
-    "src/content/blog/On positive and negative contagion, and how to get people to feel better about being better.md",
+    "src/content/blog/on-positive-and-negative-contagion.md",
     "src/content/blog/On gaining by giving something up.md",
+    "src/content/blog/On positive and negative contagion, and how to get people to feel better about being better.md",
     "src/content/blog/On being right a lot by being wrong a lot.md",
     "src/content/blog/Motte & Bailey.md",
     "src/content/blog/Look for ways to attract pieces into a knight fork.md",
@@ -192,6 +190,10 @@
     "src/content/blog/Doing it stupid.md",
     "src/content/blog/Developing X-Ray Vision as a Designer.md",
     "src/content/blog/Compressive vs. Tensile Strength.md",
+    "templates/blog.md",
+    "src/content/blog/Check for pinned pawns.md",
+    "src/content/blog/Untitled.md",
+    "src/content/blog/The Lucas Critique.md",
     "src/pages/about.md",
     "templates"
   ]

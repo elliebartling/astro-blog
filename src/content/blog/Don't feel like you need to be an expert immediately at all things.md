@@ -2,10 +2,10 @@
 title: "Tip: Don't feel like you need to be an expert immediately at all things"
 created: 2024-07-01
 modified: 2024-07-01
-projects: 
-people: 
-tags: []
-aliases: ["Tip: Don't feel like you need to be an expert immediately at all things"]
+tags:
+  - mindset
+aliases:
+  - "Tip: Don't feel like you need to be an expert immediately at all things"
 ---
 
 # Tip: Don't feel like you need to be an expert immediately at all things

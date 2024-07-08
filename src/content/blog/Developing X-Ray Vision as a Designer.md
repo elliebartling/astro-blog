@@ -1,13 +1,15 @@
 ---
-title: 'Developing "X-Ray" vision as a Designer'
+title: Developing "X-Ray" vision as a Designer
 created: 2023-09-09
 modified: 2024-07-01
-projects: 
-people: 
-tags: [quick-note]
-aliases: ['Developing "X-Ray" vision as a Designer', 202406272027 Developing X-Ray Vision as a Designer, Developing “X-Ray” vision as a Designer, Note]
-day: 2024-06-27
-project: 
+tags:
+  - chess
+  - career
+aliases:
+  - Developing "X-Ray" vision as a Designer
+  - 202406272027 Developing X-Ray Vision as a Designer
+  - Developing “X-Ray” vision as a Designer
+  - Note
 ---
 
 # Developing "X-Ray" vision as a Designer

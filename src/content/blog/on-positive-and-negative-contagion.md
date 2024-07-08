@@ -1,6 +1,6 @@
 ---
-title: "Escaping negative feedback mood loops"
-pubDate: "2024-07-6"
+title: Escaping negative feedback mood loops
+created: 2024-07-6
 ---
 
 # On positive and negative contagion, and how to get people to feel better about being better

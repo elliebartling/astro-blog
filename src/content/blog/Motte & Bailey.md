@@ -2,10 +2,12 @@
 title: Motte & Bailey Fallacy
 created: 2023-09-09
 modified: 2024-07-01
-projects: 
-people: 
-tags: [quick-note]
-aliases: [Motte & Bailey Fallacy, Note]
+tags:
+  - fallacies
+  - mindset
+aliases:
+  - Motte & Bailey Fallacy
+  - Note
 day: 2024-07-01
 ---
 

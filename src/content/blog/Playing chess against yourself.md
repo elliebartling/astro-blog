@@ -2,14 +2,14 @@
 title: Playing chess with/against yourself
 created: 2024-06-29
 modified: 2024-07-01
-projects: 
-people: 
-tags: [lessons-from-chess, writing]
-aliases: [Playing chess with/against yourself, Playing chess against yourself]
+tags:
+  - lessons-from-chess
+aliases:
+  - Playing chess with/against yourself
+  - Playing chess against yourself
 ---
 
 # Playing chess with/against yourself
-#lessons-from-chess #writing 
 
 I take a lot of lessons from chess into my life. That sounds a little odd to say — it's the kind of thing you might hear from a character in a movie, quoting [[The Art of War]] or using a tired chess metaphor to explain the conflict of the plot.
 

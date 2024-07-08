@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "67115360f3b2383b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28076c399fc34ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60bbb39632ae9a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/pages/about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06326a40e2facfe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/blog/style-guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c064bdcb0d809f0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3220b7d6aade834",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c089ce944c1ac6d7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f7dea69f1fb5f1c5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "12defd34c0689e3a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bb32e6338b9cab01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "417eccbf618cda33",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "src/content/blog/style-guide.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4936193acf90dde0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "src/content/blog/style-guide.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc33a071a3e99fab",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "src/content/blog/style-guide.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06326a40e2facfe1",
+  "lastOpenFiles": [
+    "src/pages/about.md",
+    "src/content/blog/style-guide.md",
+    "src/content/blog/markdown-style-guide.md",
+    "public/blog-placeholder-about.jpg",
+    "src/pages/blog/[...slug].astro",
+    "src/pages/blog/index.astro",
+    "src/content/blog/using-mdx.mdx",
+    "src/content/blog/third-post.md",
+    "src/content/blog/second-post.md",
+    "src/content/blog/first-post.md",
+    "src/pages/index.md",
+    "src/pages/blog",
+    "src/pages/rss.xml.js",
+    "src/layouts/Index.astro",
+    "src/layouts/BlogPost.astro",
+    "src/components/FormattedDate.astro",
+    "src/components/Header.astro",
+    "src/components/HeaderLink.astro",
+    "README.md",
+    "public/favicon.svg",
+    "public/blog-placeholder-5.jpg",
+    "public/blog-placeholder-4.jpg",
+    "public/blog-placeholder-1.jpg",
+    "public/blog-placeholder-3.jpg",
+    "public/blog-placeholder-2.jpg"
+  ]
+}

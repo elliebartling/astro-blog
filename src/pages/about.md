@@ -10,3 +10,5 @@ I'm Ellie. Currently a **designer at Kindle**, working on the future of search, 
 This site is a place for me to share thoughts on things I'm reading, discovering, and thinking about. It is part of my current [[side-quest]] to [[learn with the garage door open]]. Everything here is a work in progress.
 
 ## Projects
+
+

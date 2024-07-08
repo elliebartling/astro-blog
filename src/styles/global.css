@@ -217,6 +217,13 @@ hr {
   }
 }
 
+time {
+  font-family: monospace;
+  font-size: 0.8em;
+  /* width: 100px; */
+  display: inline-block;
+}
+
 @media (max-width: 720px) {
   body {
     font-size: 16px;

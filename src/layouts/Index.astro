@@ -9,14 +9,14 @@ import { getCollection } from "astro:content";
 
 const aboutPage = await Astro.glob("../pages/about.md");
 console.log(aboutPage);
+import {Content as AboutPageContent} from '../pages/about.md';
 // Get all entries from a collection.
 // Requires the name of the collection as an argument.
 // Example: retrieve `src/content/blog/**`
 const allBlogPosts = await getCollection("blog");
-allBlogPosts.sort((post) => {
-  post.data.created;
+allBlogPosts.sort((a,b) => {
+  return new Date(b.data.created) - new Date(a.data.created);
 });
-// console.log(allBlogPosts);
 function shorten(str, maxLen, separator = ' ') {
   if (str.length <= maxLen) return str;
   return str.substr(0, str.lastIndexOf(separator, maxLen));
@@ -33,19 +33,19 @@ function shorten(str, maxLen, separator = ' ') {
     <main>
       <h2>Latest</h2>
       <article class="post">
-        <a>{allBlogPosts[0].data.title}</a>
+        <a href={allBlogPosts[0].slug}>{allBlogPosts[0].data.title}</a>
         <p><small><FormattedDate date={allBlogPosts[0].data.created}/></small></p>
         <p>
           {shorten(allBlogPosts[0].body, 200)}...
         </p>
       </article>
       <hr />
-      {aboutPage}
+      <AboutPageContent/>
       <a href="/about">More</a>
       <hr />
       <h2>Writing</h2>
       <ul>
-        {allBlogPosts.map((post) => <Post url=`/blog/${post.slug}` title={post.data.title} />)}
+        {allBlogPosts.map((post) => <Post url=`/blog/${post.slug}` title={post.data.title} date={post.data.created} />)}
       </ul>
       <p>
         This template comes with a few integrations already configured in your

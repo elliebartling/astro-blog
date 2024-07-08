@@ -19,4 +19,4 @@ Inflexible systems generate incentives that lead to their own destruction. A sys
 
 ## See also
 
-[[Markets]], [[Systems]], [[Incentives]]
+[Markets](Markets.md), [Systems](Systems.md), [Incentives](Incentives.md)

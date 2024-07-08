@@ -9,17 +9,14 @@ aliases:
   - Developing "X-Ray" vision as a Designer
   - 202406272027 Developing X-Ray Vision as a Designer
   - Developing “X-Ray” vision as a Designer
-  - Note
 ---
 
 # Developing "X-Ray" vision as a Designer
+
 In [[chess]], there is this concept of "x-ray attacking" — that is, a piece indirectly threatens another piece if it can "see through" a piece. 
 
-Add image
+In design, we often talk about the ability to "look around corners" but it's hard to visualize what that means, exactly. What corners? What's on the other side of those corners? What do we do with that information once we've looked?
 
-In design, we often talk about "looking around corners" but it's hard to visualize what that means, exactly. What corners? What's on the other side of them? Instead, one way to develop your thinking is to practice your "x-ray vision": what would the board look like if the features, assumptions, and resources that were in front of you moved? Would you have an opportunity? Or would you be faced with a threat? How might you mitigate that threat, or take advantage of that opportunity? Include those ideas in your design process as contingencies.
+A different way to think about this skill is through the metaphor of "x-ray vision." Think about all the "pieces" that make up the chess board of a design challenge: the users, the people working on it, the constraints, the timeline, the requirements, the competition. What would the "board" look like if the features, assumptions, and resources that were in front of you moved? Would you have an opportunity? Would you be faced with a threat? How might you mitigate that threat, or take advantage of that opportunity?
 
-Add example 
 
-## See also
-[[Chess]]

@@ -19,7 +19,7 @@ Because, actually, that's how I often feel in relationship with my own mind.
 
 For example: a classic tactic in chess called "attraction" is to sacrifice a piece as a "decoy" to lure a more valuable opposing piece into a position where it's under attack.
 
-[[Look for ways to attract pieces into a knight fork]]
+[Look for ways to attract pieces into a knight fork](Look%20for%20ways%20to%20attract%20pieces%20into%20a%20knight%20fork.md)
 
 This sounds very adversarial when applied to life — but what if you're playing chess against yourself?
 

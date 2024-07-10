@@ -4,7 +4,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "src/content/blog",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "public",
+  "attachmentFolderPath": "assets",
   "userIgnoreFilters": [
     "src/layouts/",
     "src/components/"

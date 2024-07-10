@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1718f8e641842d8f",
+        "id": "0b57c37374d59f94",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ed91fb114b19d7",
+            "id": "7cd05fb248727e0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/pages/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a933793bc4e3a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/pages/about.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/ss.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/pages/about.md",
+                "file": "assets/ss.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/pages/about.md",
+                "file": "assets/ss.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/pages/about.md"
+                "file": "assets/ss.png"
               }
             }
           },
@@ -171,6 +156,22 @@
   },
   "active": "9853a95330a8f970",
   "lastOpenFiles": [
+    "templates/blog.md",
+    "content/_drafts/blog.md",
+    "templates",
+    "content/blog/creating-a-blog-with-obsidian-and-astro.md",
+    "assets/config.ts",
+    "_.obsidian/themes/Minimal/theme.css",
+    "_.obsidian/themes/Minimal/manifest.json",
+    "_.obsidian/plugins/templater-obsidian/styles.css",
+    "_.obsidian/plugins/templater-obsidian/manifest.json",
+    "_.obsidian/plugins/templater-obsidian/main.js",
+    "_.obsidian/plugins/templater-obsidian/data.json",
+    "_.obsidian/plugins/wikilinks-to-mdlinks-obsidian/manifest.json",
+    "_.obsidian/plugins/wikilinks-to-mdlinks-obsidian/main.js",
+    "content/blog/Developing X-Ray Vision as a Designer.md",
+    "assets/ss.png",
+    "_templates/blog.md",
     "src/pages/index.md",
     "src/content/blog/Developing X-Ray Vision as a Designer.md",
     "src/content/blog/Doing it stupid.md",
@@ -191,11 +192,6 @@
     "src/content/blog/Look for sacrifices that can open a file.md",
     "src/content/blog/Learning with the garage door up.md",
     "src/content/blog/Getting Started in Obsidian.md",
-    "src/content/blog/Don't feel like you need to be an expert immediately at all things.md",
-    "templates/blog.md",
-    "src/content/blog/Check for pinned pawns.md",
-    "src/content/blog/Untitled.md",
-    "src/pages/about.md",
-    "templates"
+    "src/content/blog/Don't feel like you need to be an expert immediately at all things.md"
   ]
 }

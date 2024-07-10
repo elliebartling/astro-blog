@@ -1,0 +1,84 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": []
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "layouts",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "src/components",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "src/layouts",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "src/styles",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "layouts",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "env.d.ts",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "styles",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "components",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "consts.ts",
+        "patternType": "WILDCARD"
+      }
+    ]
+  }
+}

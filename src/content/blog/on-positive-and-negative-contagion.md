@@ -1,3 +1,8 @@
+---
+title: On positive and negative contagion, and how to get people to feel better about being better
+pubDate: 2024-06-07
+---
+
 # On positive and negative contagion, and how to get people to feel better about being better
 
 Tyler Cowen at Marginal Revolution writes: 

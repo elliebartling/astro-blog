@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "47a1822993b7bb8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6f40be06639d4b5",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 284.5
   },
   "right": {
     "id": "5cc0fef796d04e6e",
@@ -183,7 +169,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a933793bc4e3a11",
+  "active": "9853a95330a8f970",
   "lastOpenFiles": [
     "src/pages/index.md",
     "src/content/blog/Developing X-Ray Vision as a Designer.md",

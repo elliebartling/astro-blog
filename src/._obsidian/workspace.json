@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "53fd1eee1c9db2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b57c37374d59f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd05fb248727e0a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/ss.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e61ace437dbdbeaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a9ad82af5c4e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9853a95330a8f970",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65b16f559c4ce35c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f438ca339976990",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "5cc0fef796d04e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6ece7d6eb1a674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16bfa1f8fab14f3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/ss.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ecd4bf8addb9236",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/ss.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d08a723f28e6459",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dac85d6bae6792d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/ss.png"
+              }
+            }
+          },
+          {
+            "id": "8c241c94ed76366d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9853a95330a8f970",
+  "lastOpenFiles": [
+    "templates/blog.md",
+    "content/_drafts/blog.md",
+    "templates",
+    "content/blog/creating-a-blog-with-obsidian-and-astro.md",
+    "assets/config.ts",
+    "_.obsidian/themes/Minimal/theme.css",
+    "_.obsidian/themes/Minimal/manifest.json",
+    "_.obsidian/plugins/templater-obsidian/styles.css",
+    "_.obsidian/plugins/templater-obsidian/manifest.json",
+    "_.obsidian/plugins/templater-obsidian/main.js",
+    "_.obsidian/plugins/templater-obsidian/data.json",
+    "_.obsidian/plugins/wikilinks-to-mdlinks-obsidian/manifest.json",
+    "_.obsidian/plugins/wikilinks-to-mdlinks-obsidian/main.js",
+    "content/blog/Developing X-Ray Vision as a Designer.md",
+    "assets/ss.png",
+    "_templates/blog.md",
+    "src/pages/index.md",
+    "src/content/blog/Developing X-Ray Vision as a Designer.md",
+    "src/content/blog/Doing it stupid.md",
+    "src/content/blog/Compressive vs. Tensile Strength.md",
+    "src/content/blog/Look for ways to attract pieces into a knight fork.md",
+    "src/content/blog/Motte & Bailey.md",
+    "src/content/blog/On being right a lot by being wrong a lot.md",
+    "src/content/blog/On gaining by giving something up.md",
+    "src/content/blog/on-positive-and-negative-contagion.md",
+    "src/content/blog/Opportunity Cost.md",
+    "src/content/blog/Playing chess against yourself.md",
+    "src/content/blog/style-guide.md",
+    "src/content/blog/The force of a system has to act on the surface area of its object.md",
+    "src/content/blog/The incentives of inflexible systems.md",
+    "src/content/blog/The Lucas Critique.md",
+    "src/content/blog/On positive and negative contagion, and how to get people to feel better about being better.md",
+    "src/content/blog/Look for sacrifices that can open up the king to an attack.md",
+    "src/content/blog/Look for sacrifices that can open a file.md",
+    "src/content/blog/Learning with the garage door up.md",
+    "src/content/blog/Getting Started in Obsidian.md",
+    "src/content/blog/Don't feel like you need to be an expert immediately at all things.md"
+  ]
+}

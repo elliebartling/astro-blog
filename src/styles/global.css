@@ -186,10 +186,11 @@ pre > code {
   all: unset;
 }
 blockquote {
-  border-left: 4px solid var(--rp-gold);
+  border-left: 2px solid var(--rp-love);
   padding: 0 0 0 20px;
   margin: 0px;
-  font-size: 1.333em;
+  font-size: 1em;
+  color: var(--rp-subtle);
 }
 hr {
   border-top: 1px solid;
@@ -214,6 +215,13 @@ hr {
   a {
     margin-bottom: 0px;
   }
+}
+
+time {
+  font-family: monospace;
+  font-size: 0.8em;
+  /* width: 100px; */
+  display: inline-block;
 }
 
 @media (max-width: 720px) {

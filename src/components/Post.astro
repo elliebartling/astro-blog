@@ -1,5 +1,8 @@
 ---
-const { title, url } = Astro.props;
+import FormattedDate from "./FormattedDate.astro";
+const { title, url, date } = Astro.props;
 ---
 
-<li><a href={url}>{title}</a></li>
+<li>
+  <span><FormattedDate date={date} /> • </span><a href={url}>{title}</a>
+</li>

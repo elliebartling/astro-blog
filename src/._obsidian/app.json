@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "src/content/blog",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "userIgnoreFilters": [
+    "src/layouts/",
+    "src/components/"
+  ]
+}
